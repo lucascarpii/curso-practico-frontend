@@ -1,0 +1,19 @@
+{
+  "name": "curso-practico-frontend",
+  "version": "1.0.0",
+  "description": "Curso práctico de Frontend Developer en Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucascarpii/curso-practico-frontend.git"
+  },
+  "author": "lucascarpii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucascarpii/curso-practico-frontend/issues"
+  },
+  "homepage": "https://github.com/lucascarpii/curso-practico-frontend#readme"
+}
